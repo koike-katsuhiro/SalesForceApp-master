@@ -1,0 +1,169 @@
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.gradient {
+  height: 100vh;
+  background: linear-gradient(45deg, #2af598 0%, #009efd 100%);
+}
+.icon{
+  width: 150px;
+  margin:140px auto 5px;
+}
+h1 {
+  font: italic normal bold 50px Arial;
+  margin:0px auto 15px;
+  letter-spacing: 0px;
+  color: #2E3F58;
+  opacity: 1;
+}
+h2{
+  font: normal normal normal 20px Hiragino Kaku Gothic ProN;
+  color: #2E3F58;
+}
+h3{
+  font: italic normal bold 30px Arial;
+  margin:0px auto 15px;
+  color: #2E3F58;
+}
+p{
+  font: normal normal normal 16px Hiragino Kaku Gothic ProN;
+  color: #2E3F58;
+}
+p2{
+  font: normal normal normal 20px Hiragino Kaku Gothic ProN;
+  color: #2E3F58;
+  margin:30px 15px 15px;
+}
+.center{
+  text-align: center;
+}
+
+
+.right{
+  text-align: right;
+}
+.button-one{
+  color: #fff;
+  background-color:#2E3F58;
+  height: 50px;
+  width: 145px;
+  font: normal normal normal 16px Hiragino Kaku Gothic ProN;
+  border-radius: 100vh;
+  box-shadow: 5px 5px 5px #00000029;
+  margin:15px auto 15px;
+}
+.button-one:hover{
+  color: #2E3F58;
+  background-color:#fff;
+}
+.button-two{
+  color: #2E3F58;
+  background-color:#fff;
+  height: 90px;
+  width: 325px;
+  font: normal normal normal 30px Hiragino Kaku Gothic ProN;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px #00000029;
+  margin:70px 70px;
+  border: none;
+}
+.button-two:hover{
+  color: #fff;
+  background-color:#2E3F58;
+}
+
+.button-three{
+  color: #fff;
+  background-color:#2E3F58;
+  height: 30px;
+  width: 125px;
+  font: normal normal normal 16px Hiragino Kaku Gothic ProN;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px #00000029;
+  margin:15px auto 15px;
+}
+.button-three:hover{
+  color: #2E3F58;
+  background-color:#fff;
+}
+.loginText-one{
+  position: relative;
+  width: 300px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #a0a0a0;
+  outline: none;
+  border: none;
+}
+.loginText-two{
+  position: relative;
+  width: 300px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #a0a0a0;
+  outline: none;
+  border: none;
+}
+.textbox{
+  position: relative;
+  width: 300px;
+  height: 50px;
+  margin: 15px auto 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #a0a0a0;
+  outline: none;
+}
+.textbox-two{
+  position: relative;
+  display: block;
+  width: 200px;
+  height: 40px;
+  margin: 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #a0a0a0;
+  outline: none;
+}
+.text-right{
+  text-align:right;
+  margin:30px 15px;
+}
+.float-one{
+  float:right;
+  margin:15px 15px;
+}
+.float-two{
+  float:left;
+  margin:0 15px 15px;
+  text-indent: 1em;
+}
+.clear {
+clear: both;  /* floatによる回り込みを解除する*/
+}
+
+.form-control{
+  position: relative;
+  display: block;
+  width: 200px;
+  height: 40px;
+  margin: 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #a0a0a0;
+  outline: none;
+  float:left;
+  margin:0 15px 15px;
+}
+
+.centerClear{
+  text-align: right;
+
+}
